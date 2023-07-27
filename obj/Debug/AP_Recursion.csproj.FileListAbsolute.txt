@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Recursion\AP_Recursion\bin\Debug\AP_Recursion.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Recursion\AP_Recursion\bin\Debug\AP_Recursion.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Recursion\AP_Recursion\bin\Debug\AP_Recursion.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Recursion\AP_Recursion\obj\Debug\AP_Recursion.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Recursion\AP_Recursion\obj\Debug\AP_Recursion.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Recursion\AP_Recursion\obj\Debug\AP_Recursion.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Recursion\AP_Recursion\obj\Debug\AP_Recursion.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Recursion\AP_Recursion\obj\Debug\AP_Recursion.pdb
